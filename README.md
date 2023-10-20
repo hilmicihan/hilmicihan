@@ -1,10 +1,10 @@
 
 # 👋 HILMI CIHAN YILDIRIM
 👨‍💻 **Software Engineer**  
-📧 se.hilmiyildirim@gmail.com | 📱 +905337690696 | 🌍 [Linkedin](https://linkedin.com/in/hilmicihanyildirim) | 🎓 [Udemy](https://udemy.com/user/hilmicihan)
+📧 se.hilmiyildirim@gmail.com | 📱 +905337690696 | 🌍 [Linkedin](https://linkedin.com/in/hilmicihanyildirim) | 🎓 [Udemy](https://www.udemy.com/user/hilmi-cihan-yildirim-2/)
 
 🚀 Eager to take on challenging Software Engineering roles, I bring a wealth of industry experience, especially in browser-based, cloud-based, and mobile applications. Holding a B.S. in Computer Science, my journey has been marked by dedication, innovation, and a robust skill set.
-
+ 🔭 I’m currently working on SMG
 ## 📚 EDUCATION
 
 🏛 **Middle East Technical University**  
@@ -13,63 +13,45 @@
 - 🥇 Honor student with a CGPA of 8+ out of 10.
 - 🔍 Relevant coursework: Data Structures, AI, Computer Organizations, File Organizations, Dynamic Programming, Algorithms, Image Processing.
 
-## 💼 WORK EXPERIENCE
+## 🎓 Udemy Courses & Profile
 
-🔷 **Software Engineer - Service Management Group**  
-Backend Software Engineer | Sep 2022 - Present | 🇺🇸  
-- Streamlined 600+ million daily legacy transactions.
-- 🚀 Developed reusable Github workflow, received team recognition.
-- Implemented clean architecture, Azure functions.
-- Onboarded mid-level engineers.
+👨‍🏫 **Hilmi Cihan Yıldırım**  
+Professional Teacher, Developer, and Consultant  
 
-🔷 **Instructor - Udemy**  
-Instructor | Jan 2023 - Present  
-- Developed and teach Engineering courses: Github actions, Design patterns, Anti-patterns.
-- Proficient in C#, Python, and Javascript.
-- 🌟 14,000+ enrollees with a 4.7 instructor rating.
+📈 **Profile Metrics:**  
+- 🌍 [Udemy Profile](https://www.udemy.com/user/hilmicihanyildirim-2)
+- 👥 **23,918** Students  
 
-🔷 **Software Engineer - StartupHeroes/Gopuff**  
-Full Stack Mobile Developer | Aug 2021 – Oct 2022 | 🇹🇷 Istanbul  
-- Back-end development with Node.js & Azure; mobile app development with Flutter.
-- Integrated push notifications, UJET, Stripe.
-- Achieved a 110% salary increase within 10 months.
+💼 **About Me:**  
+Highly effective software trainer with extensive knowledge of various applications and operating systems. Continuously updating with newly released applications and integrates them into training materials. Bachelor’s in Computer Science, exceptional presentation skills, engaging personality, and 5 years of Software Training experience.
 
-🔷 **Software Engineer - KeepnetLabs**  
-Backend Developer | Dec 2020 - Aug 2021 | 🇬🇧 London (Remote)  
-- Developed using Dotnet Core 3.1.
-- Delivered RESTful APIs and integrated global security engines, resulting in onboarding major banks.
+### 📚 My Courses:
 
-🔷 **Software Engineer - Havelsan**  
-Intern | Jul 2020 - Aug 2020 | 🇹🇷 Ankara  
-- Implemented Bounding Box Detection in C++ using PCL.
+1. **Design Patterns & Antipatterns in JavaScript 2023**  
+   - 🔥 Rating: **4.0** 
+   - ⏰ Duration: **9 hours** | 🎥 Lectures: **68** | 🎓 Level: **All**
+   - 💰 Current Price: ₺79.99 | 💸 Original Price: ₺279.99
 
-🔷 **Undergraduate Researcher - METU**  
-AI Intern | Nov 2019 - Jun 2020 | 🇹🇷 Ankara (Remote)  
-- Enhanced AI behavior trees and penned a related article.
+2. **Github Actions: Become the Jedi of CI/CD 2023**  
+   - 🔥 Rating: **4.9** 
+   - ⏰ Duration: **5 hours** | 🎥 Lectures: **42** | 🎓 Level: **All**
+   - 💰 Current Price: ₺79.99 | 💸 Original Price: ₺229.99
 
-## 🛠 TECHNICAL SKILLS
+3. **Decoding Antipatterns**  
+   - 🔥 Rating: **4.9** 
+   - ⏰ Duration: **6.5 hours** | 🎥 Lectures: **34** | 🎓 Level: **Intermediate**
+   - 💰 Current Price: ₺79.99 | 💸 Original Price: ₺249.99
 
-- **Back End** [🎓](https://udemy.com)
-- **Front End** [🎓](https://udemy.com)
-- **Git** [🔗](https://linkedin.com/in/hilmicihanyildirim)
-- **MySql** [🔗](https://linkedin.com/in/hilmicihanyildirim) [🎓](https://udemy.com)
-- **NoSql** [🔗](https://linkedin.com/in/hilmicihanyildirim)
-- **Flutter** [🎓](https://udemy.com)
-- **Node.js** [🔗](https://linkedin.com/in/hilmicihanyildirim) [💡](https://hackerrank.com/hilmicihan) [🎓](https://udemy.com)
-... (and many more)
+4. **Critical Thinking in Software Engineering 2023**  
+   - 🔥 Rating: **4.9**
+   - ⏰ Duration: **2 hours** | 🎥 Lectures: **29** | 🎓 Level: **Beginner**
+   - 💰 Current Price: ₺79.99 | 💸 Original Price: ₺169.99
 
-> Certifications and endorsements from platforms: [💡](https://hackerrank.com/hilmicihan) Hackerrank, [🔗](https://linkedin.com/in/hilmicihanyildirim) Linkedin, [🎓](https://udemy.com) Udemy.
+5. **Design Patterns in Python - 2023**  
+   - 🔥 Rating: **4.9** 
+   - ⏰ Duration: **9 hours** | 🎥 Lectures: **67** | 🎓 Level: **Intermediate**
 
-## 🏆 ACHIEVEMENTS
 
-- 4th degree in senior project competition.
-- 🎓 Scholarship from Deloitte.
-- Top 0.01% rank in National University Entrance Exam among 2M+ students.
-
-## 📦 PROJECTS
-
-- **Gym Workout Planner** - Mobile app developed with Flutter front-end and Node.js-Express back-end. Available on Google Play Store and Apple App Store.
-- **Mask Detection App** - Supported by ASELSAN, we built a mask detection solution with Flutter, Flask, and DSDF for AI. Award-winning project.
 
 
 <!--
